@@ -1,18 +1,31 @@
 # HOW TO UPGRADE AZTEC NODE 
 
 install aztec tools
-```bash -i <(curl -s https://install.aztec.network)```
+```
+bash -i <(curl -s https://install.aztec.network)
+```
 
+```
+echo 'export PATH="$HOME/.aztec/bin:$PATH"' >> ~/.bashrc
+```
+```
+source ~/.bashrc
+```
 
-```echo 'export PATH="$HOME/.aztec/bin:$PATH"' >> ~/.bashrc```
-```source ~/.bashrc```
-
-```aztec-up```
+```
+aztec-up
+```
 
 install foundry
-```curl -L https://foundry.paradigm.xyz | bash```
-```source ~/.bashrc```
-```foundryup```
+```
+curl -L https://foundry.paradigm.xyz | bash
+```
+```
+source ~/.bashrc
+```
+```
+foundryup
+```
 
 create a script to join the new testnet
 follow the onscreen instructions 

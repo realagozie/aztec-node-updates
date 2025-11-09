@@ -155,6 +155,7 @@ nano .env
 ```
 
 -Replace validator-Private-Keys value with the new ETH private key that you saved from running the script
+
 -Replace coinbase address with the new public address u saved
 
 CTRL+X, press Y, then Enter to save the edit

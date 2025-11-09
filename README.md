@@ -121,6 +121,7 @@ chmod +x setup.sh
 ```
 
 THE SCRIPT EXPLAINED 
+
 1: Generate New Keys
 Removes old keystore and creates new ETH + BLS keys.
 Saves them to ~/.aztec/keystore/key1.json.

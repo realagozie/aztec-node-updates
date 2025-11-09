@@ -16,6 +16,8 @@ source ~/.bashrc
 aztec-up
 ```
 
+
+
 install foundry
 ```
 curl -L https://foundry.paradigm.xyz | bash

@@ -32,7 +32,9 @@ foundryup
 create a script to join the new testnet
 follow the onscreen instructions 
 
-```nano setup.sh```
+```
+nano setup.sh
+```
 paste the content below inside 
 ```
 #!/bin/bash
@@ -140,7 +142,7 @@ Afterwards, restart your node using your new private key and address.
 
 
 
-.........................
+
 EDIT YOUR .ENV FILE 
 
 ```

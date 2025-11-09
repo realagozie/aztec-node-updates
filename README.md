@@ -16,7 +16,7 @@ source ~/.bashrc
 aztec-up
 ```
 
-
+---
 
 install foundry
 ```
@@ -28,7 +28,7 @@ source ~/.bashrc
 ```
 foundryup
 ```
-
+---
 create a script to join the new testnet
 follow the onscreen instructions 
 
@@ -155,7 +155,7 @@ nano .env
 -Replace coinbase address with the new public address u saved
 
 CTRL+X, press Y, then Enter to save the edit
-
+---
 RESTART NODE
 ```
 cd aztec && \

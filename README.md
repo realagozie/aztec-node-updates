@@ -142,7 +142,7 @@ Confirms your validator on the new Aztec 2.1.2 testnet.
 Afterwards, restart your node using your new private key and address.
 
 
-
+---
 
 EDIT YOUR .ENV FILE 
 

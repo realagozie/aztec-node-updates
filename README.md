@@ -18,6 +18,7 @@ aztec-up
 
 ---
 
+
 install foundry
 ```
 curl -L https://foundry.paradigm.xyz | bash
@@ -28,6 +29,8 @@ source ~/.bashrc
 ```
 foundryup
 ```
+
+
 ---
 create a script to join the new testnet
 follow the onscreen instructions 
